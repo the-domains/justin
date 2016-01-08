@@ -1,0 +1,14 @@
+layout_spectrum: 0.2
+color:
+  saturation: 0.8234043
+  brandStrength: 0.4851064
+  lightness: 0.9531915
+  brandColors:
+    - '#FFFFFF'
+    - '#1E1617'
+    - '#910D28'
+    - '#8A7F6B'
+    - '#3A52CF'
+  rhythmicContrast: 0.04750376
+typography_spectrum: 0.2297872
+name: Justin
