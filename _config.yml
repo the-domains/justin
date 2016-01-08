@@ -1,14 +1,26 @@
-layout_spectrum: 0.2
-color:
-  saturation: 0.8234043
-  brandStrength: 0.4851064
-  lightness: 0.9531915
-  brandColors:
-    - '#FFFFFF'
-    - '#1E1617'
-    - '#910D28'
-    - '#8A7F6B'
-    - '#3A52CF'
-  rhythmicContrast: 0.04750376
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.2297872
+color:
+  saturation: 0.0106383
+  brandStrength: 0.293617
+  lightness: 0.6
+  brandColors:
+    - '#000000'
+    - '#534231'
+    - '#92897F'
+    - '#BDB3A3'
+    - '#FFFFFC'
+  rhythmicContrast: 0.2829787
+layout_spectrum: 0.2
 name: Justin
